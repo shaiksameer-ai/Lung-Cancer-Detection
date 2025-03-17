@@ -5,8 +5,8 @@ LungAI is a deep learning project aimed at detecting and classifying lung cancer
 
 4x hackathon award winner - out of 1,500 total competitors.
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DorsaRoh/LungAI)
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFFF00?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/dorsar/lung-cancer-detection)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/vasusurisetty2004])
+
 
 
 ## Model Performance
@@ -75,6 +75,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DorsaRoh)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Dorsa_Rohani)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dorsarohani/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasusurisetty2004)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/vasu-surisetty2004/])
