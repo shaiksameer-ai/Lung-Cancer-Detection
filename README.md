@@ -3,8 +3,6 @@
 ## Project Overview
 LungAI is a deep learning project aimed at detecting and classifying lung cancer from CT scan images. The model can differentiate between cancerous and non-cancerous lung tissue, as well as classify specific types of lung cancer.
 
-4x hackathon award winner - out of 1,500 total competitors.
-
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/vasusurisetty2004])
 
 
@@ -76,4 +74,4 @@ If you would like to contribute to this project, please fork the repository and 
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vasusurisetty2004)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/vasu-surisetty2004/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vasu-surisetty2004/)
