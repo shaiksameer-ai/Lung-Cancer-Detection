@@ -1,0 +1,58 @@
+# Lung Cancer Detection Model
+
+## Model Performance
+- 98% accuracy in distinguishing between cancerous and non-cancerous cases
+- 83% accuracy in differentiating between four specific types of lung conditions:
+  - **Adenocarcinoma:** 82% F1-score
+  - **Large Cell Carcinoma:** 85% F1-score
+  - **Normal (non-cancerous):** 98% F1-score
+  - **Squamous Cell Carcinoma:** 76% F1-score
+
+This project represents the newest version, now using PyTorch.
+
+## Repository Structure
+```
+Lung-Cancer-Detection/
+├── Architecture/
+│   ├── architecture.py       # Defines the model architecture
+│   ├── preprocess.py         # Data preprocessing utilities
+│   ├── run.py                # Script for running the model
+│   └── test.py               # Script for testing the model
+├── Model/
+│   ├── lung_cancer_detection_model.onnx  # ONNX format of the trained model
+│   └── lung_cancer_detection_model.pth   # PyTorch weights of the trained model
+├── Data/                      # (Not included in repository) Directory for storing the dataset
+├── Processed_Data/            # (Not included in repository) Directory for preprocessed data
+├── assets/                    # Additional project assets
+└── requirements.txt           # List of Python dependencies
+```
+
+## Data
+The dataset can be found at [Hugging Face Datasets](https://huggingface.co/datasets/dorsar/lung-cancer).
+
+## Setup and Usage
+
+### Step 1: Install Dependencies
+First, ensure you have Python installed. Then, install the required Python libraries using the following command:
+```bash
+pip install -r requirements.txt
+```
+
+### Step 2: Train the Model (Optional)
+Run the training script to train the model. It will be saved as .pth and .onnx files:
+```bash
+python Architecture/architecture.py
+```
+
+### Step 3: Run the Model
+Run the model by running the following file:
+```bash
+python Architecture/run.py
+```
+
+### Notes
+- Make sure your dataset is structured correctly under the `Processed_Data` directory with subdirectories for training, validation, and testing sets.
+- The model training script expects the dataset to be in the `Processed_Data` directory. Ensure that the data transformations and directory paths are correctly set up in `architecture.py`.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome improvements, bug fixes, and new features.
