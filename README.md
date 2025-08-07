@@ -55,7 +55,7 @@ Our best-performing model, based on **CapsNet**, achieved **96% accuracy**, sign
 
 ---
 
-> *Disclaimer: This is an academic project and should not be used for actual medical diagnosis without proper clinical validation.*
+>*Disclaimer: This is an academic project and should not be used for actual medical diagnosis without proper clinical validation.*
 
 
 # LUNGAI: Lung Cancer Detection Model
