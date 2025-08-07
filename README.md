@@ -1,10 +1,10 @@
-# 🩺 Lung Cancer Detection Using Deep Learning
+# Lung Cancer Detection Using Deep Learning
 
 This project was developed as part of our **final year major project** for our undergraduate degree. The goal was to build a deep learning-based model for early detection of lung cancer using patient scan data and diagnostic features.
 
 ---
 
-## ✅ My Contributions
+## My Contributions
 
 - Collected and cleaned the dataset for consistency and accuracy  
 - Performed **EDA** using Seaborn and Matplotlib to uncover data patterns  
@@ -17,7 +17,7 @@ This project was developed as part of our **final year major project** for our u
 
 ---
 
-## 👨‍💻 Team Members
+## Team Members
 
 - [Vasu Surisetty (Team Leader)](https://github.com/vasusurisetty2004)  
 - Myself (Shaik Sameer)  
@@ -25,14 +25,14 @@ This project was developed as part of our **final year major project** for our u
 
 ---
 
-## 🔗 Original Repository Credit
+## Original Repository Credit
 
 This project was originally maintained under our team leader's GitHub.  
 👉 [Original Repo Link](https://github.com/vasusurisetty2004/Lung-Cancer-Detection)
 
 ---
 
-## 🧪 Tech Stack Used
+## Tech Stack Used
 
 - **Python**
 - **TensorFlow, Keras**
@@ -43,19 +43,19 @@ This project was originally maintained under our team leader's GitHub.
 
 ---
 
-## 🩻 Objective
+## Objective
 
 To develop a robust deep learning model capable of detecting lung cancer from medical imaging and diagnostic data, enhancing diagnostic reliability and reducing misclassification through spatial feature extraction.
 
 ---
 
-## 📊 Results
+## Results
 
 Our best-performing model, based on **CapsNet**, achieved **96% accuracy**, significantly reducing misclassification compared to traditional models.
 
 ---
 
-> 🚨 *Disclaimer: This is an academic project and should not be used for actual medical diagnosis without proper clinical validation.*
+> *Disclaimer: This is an academic project and should not be used for actual medical diagnosis without proper clinical validation.*
 
 
 # LUNGAI: Lung Cancer Detection Model
